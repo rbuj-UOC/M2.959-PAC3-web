@@ -4,9 +4,35 @@ import { gsap } from 'gsap';
 const sections = Array.from(document.querySelectorAll('.story'));
 const imageA = document.getElementById('image-a');
 const imageB = document.getElementById('image-b');
+const hero = document.querySelector('.hero');
 
 let activeLayer = 'a';
 let currentImageUrl = '';
+
+function setupHeroScroll() {
+  let lastScroll = 0;
+
+  window.addEventListener('scroll', () => {
+    const scrollY = window.scrollY;
+    const heroHeight = hero.offsetHeight;
+
+    // Calcula l'opacitat basada en el scroll (desapareix en els primers 200px)
+    const opacity = Math.max(0, 1 - (scrollY / 200));
+    const translateY = scrollY * 0.5; // parallax subtil
+
+    hero.style.opacity = opacity;
+    hero.style.transform = `translateY(${translateY}px)`;
+
+    // Desactiva pointer-events quan està completament amagat
+    if (opacity <= 0) {
+      hero.style.pointerEvents = 'none';
+    } else {
+      hero.style.pointerEvents = 'auto';
+    }
+
+    lastScroll = scrollY;
+  });
+}
 
 function setInitialImage() {
   if (sections.length > 0) {
@@ -48,4 +74,5 @@ function setupObserver() {
 }
 
 setInitialImage();
+setupHeroScroll();
 setupObserver();
