@@ -6,6 +6,7 @@ const imageA = document.getElementById('image-a');
 const imageB = document.getElementById('image-b');
 
 let activeLayer = 'a';
+let currentImageUrl = '';
 
 function setInitialImage() {
   if (sections.length > 0) {
@@ -13,14 +14,15 @@ function setInitialImage() {
     imageA.src = firstImage;
     imageA.style.opacity = 1;
     imageB.style.opacity = 0;
+    currentImageUrl = firstImage;
   }
 }
 
 function swapImage(url) {
+  if (!url || currentImageUrl === url) return;
+
   const incoming = activeLayer === 'a' ? imageB : imageA;
   const outgoing = activeLayer === 'a' ? imageA : imageB;
-
-  if (incoming.src === url) return;
 
   incoming.src = url;
   incoming.style.opacity = 0;
@@ -29,6 +31,7 @@ function swapImage(url) {
   gsap.to(outgoing, { opacity: 0, duration: 0.8, ease: 'power2.out' });
 
   activeLayer = activeLayer === 'a' ? 'b' : 'a';
+  currentImageUrl = url;
 }
 
 function setupObserver() {
