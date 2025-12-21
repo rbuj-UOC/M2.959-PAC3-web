@@ -65,26 +65,27 @@ body {
   background: linear-gradient(180deg, #131319, #0d0d12);
   border-left: 1px solid rgba(255, 255, 255, 0.06);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+  padding-top: 6vw;
 }
 
 .image-layer {
   position: absolute;
-  top: 50%;
+  top: 6vw;
   left: 50%;
   width: 90%;
   height: auto;
   max-height: 90vh;
   object-fit: cover;
   filter: saturate(105%) contrast(105%);
-  transform: translate(-50%, -50%) scale(1.025);
+  transform: translateX(-50%) scale(1.025);
   transition: transform 0.8s ease;
   opacity: 0;
 }
 
 .image-frame:hover .image-layer {
-  transform: translate(-50%, -50%) scale(1.045);
+  transform: translateX(-50%) scale(1.045);
 }
 
 @media (max-width: 900px) {
