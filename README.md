@@ -1,3 +1,5 @@
+[![Build and Deploy to GitHub Pages](https://github.com/rbuj-UOC/M2.959-PAC3-web/actions/workflows/deploy.yml/badge.svg)](https://github.com/rbuj-UOC/M2.959-PAC3-web/actions/workflows/deploy.yml)
+
 # Reserves d'habitacions
 
 Aplicació web d'storytelling amb Node, Webpack i SCSS. Presenta una experiència visual immersiva amb scroll interactiu on les imatges de la dreta canvien suaument mentre es navega per les seccions.
