@@ -84,18 +84,18 @@
 <text x='35.53' y='397.97' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>60</text>
 <text x='35.53' y='235.44' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>80</text>
 <text x='35.53' y='72.91' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='30.05px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='77.86' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='64.06px' lengthAdjust='spacingAndGlyphs'>January</text>
-<text x='140.19' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='72.06px' lengthAdjust='spacingAndGlyphs'>February</text>
-<text x='202.52' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.03px' lengthAdjust='spacingAndGlyphs'>March</text>
-<text x='264.86' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='36.02px' lengthAdjust='spacingAndGlyphs'>April</text>
+<text x='77.86' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='29.03px' lengthAdjust='spacingAndGlyphs'>Jan</text>
+<text x='140.19' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='31.03px' lengthAdjust='spacingAndGlyphs'>Feb</text>
+<text x='202.52' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='31.02px' lengthAdjust='spacingAndGlyphs'>Mar</text>
+<text x='264.86' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='28.02px' lengthAdjust='spacingAndGlyphs'>Apr</text>
 <text x='327.19' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='34.02px' lengthAdjust='spacingAndGlyphs'>May</text>
-<text x='389.52' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='39.05px' lengthAdjust='spacingAndGlyphs'>June</text>
-<text x='451.86' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='32.02px' lengthAdjust='spacingAndGlyphs'>July</text>
-<text x='514.19' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='56.05px' lengthAdjust='spacingAndGlyphs'>August</text>
-<text x='576.52' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='88.08px' lengthAdjust='spacingAndGlyphs'>September</text>
-<text x='638.85' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='64.05px' lengthAdjust='spacingAndGlyphs'>October</text>
-<text x='701.19' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='83.06px' lengthAdjust='spacingAndGlyphs'>November</text>
-<text x='763.52' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='83.06px' lengthAdjust='spacingAndGlyphs'>December</text>
+<text x='389.52' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='29.03px' lengthAdjust='spacingAndGlyphs'>Jun</text>
+<text x='451.86' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='23.02px' lengthAdjust='spacingAndGlyphs'>Jul</text>
+<text x='514.19' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='32.03px' lengthAdjust='spacingAndGlyphs'>Aug</text>
+<text x='576.52' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='32.03px' lengthAdjust='spacingAndGlyphs'>Sep</text>
+<text x='638.85' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='28.00px' lengthAdjust='spacingAndGlyphs'>Oct</text>
+<text x='701.19' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='32.02px' lengthAdjust='spacingAndGlyphs'>Nov</text>
+<text x='763.52' y='638.73' text-anchor='middle' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='32.02px' lengthAdjust='spacingAndGlyphs'>Dec</text>
 <text x='40.46' y='31.26' style='font-size: 36.00px; font-family: "Arial";' textLength='652.20px' lengthAdjust='spacingAndGlyphs'>Estacionalitat: Ocupació mitjana per mes</text>
 </g>
 </g>
