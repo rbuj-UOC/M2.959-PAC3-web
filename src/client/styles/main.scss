@@ -91,7 +91,7 @@ body {
     font-family: 'Inter', sans-serif;
     font-size: clamp(1.875rem, 3vw, 3rem);
     line-height: 1.1;
-    margin: 6vw 0 0 0;
+    margin: 2vw 0 0 0;
     letter-spacing: -0.02em;
     font-weight: 700;
   }
@@ -124,7 +124,7 @@ body {
 
 .image-layer {
   position: absolute;
-  top: 6vw;
+  top: 3vw;
   left: 70%;
   width: 90%;
   height: auto;
@@ -239,5 +239,39 @@ body {
 
   .conclusion-cards {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 720px) {
+  .conclusions {
+    padding: clamp(3rem, 6vw, 5rem) clamp(3rem, 8vw, 8rem) clamp(4rem, 7vw, 6rem);
+  }
+
+  .conclusions h2 {
+    font-size: clamp(2.5rem, 4vw, 3.5rem);
+  }
+
+  .conclusions .lead {
+    font-size: clamp(1.2rem, 1.5vw, 1.5rem);
+  }
+
+  .conclusion-card h3 {
+    font-size: 1.6rem;
+  }
+
+  .conclusion-card p {
+    font-size: 1.4rem;
+  }
+
+  .conclusions-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: clamp(1.5rem, 3vw, 3rem);
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+
+  .eyebrow {
+    font-size: clamp(0.8rem, 1vw, 0.95rem);
   }
 }

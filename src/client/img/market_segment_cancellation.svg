@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1152.00pt' height='648.00pt' viewBox='0 0 1152.00 648.00'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='806.40pt' height='648.00pt' viewBox='0 0 806.40 648.00'>
 <g class='svglite'>
 <defs>
   <style type='text/css'><![CDATA[
@@ -21,69 +21,69 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: none;'/>
 <defs>
-  <clipPath id='cpMC4wMHwxMTUyLjAwfDAuMDB8NjQ4LjAw'>
-    <rect x='0.00' y='0.00' width='1152.00' height='648.00' />
+  <clipPath id='cpMC4wMHw4MDYuNDB8MC4wMHw2NDguMDA='>
+    <rect x='0.00' y='0.00' width='806.40' height='648.00' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHwxMTUyLjAwfDAuMDB8NjQ4LjAw)'>
-<rect x='0.00' y='0.00' width='1152.00' height='648.00' style='stroke-width: 1.07; stroke: none;' />
+<g clip-path='url(#cpMC4wMHw4MDYuNDB8MC4wMHw2NDguMDA=)'>
+<rect x='0.000000000000064' y='0.00' width='806.40' height='648.00' style='stroke-width: 1.07; stroke: none;' />
 </g>
 <defs>
-  <clipPath id='cpNTEuNzF8MTA3MC4yNHw1NS40M3w1MzguMDU='>
-    <rect x='51.71' y='55.43' width='1018.52' height='482.62' />
+  <clipPath id='cpNTEuNzF8NzI0LjY0fDQ0LjMyfDUzOC4wNQ=='>
+    <rect x='51.71' y='44.32' width='672.92' height='493.73' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpNTEuNzF8MTA3MC4yNHw1NS40M3w1MzguMDU=)'>
-<rect x='51.71' y='55.43' width='1018.52' height='482.62' style='stroke-width: 1.07; stroke: none;' />
-<polyline points='51.71,447.77 1070.24,447.77 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='51.71,311.09 1070.24,311.09 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='51.71,174.41 1070.24,174.41 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='51.71,516.11 1070.24,516.11 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='51.71,379.43 1070.24,379.43 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='51.71,242.75 1070.24,242.75 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='51.71,106.07 1070.24,106.07 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='169.24,538.05 169.24,55.43 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='365.11,538.05 365.11,55.43 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='560.98,538.05 560.98,55.43 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='756.85,538.05 756.85,55.43 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='952.72,538.05 952.72,55.43 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='81.10' y='268.04' width='176.28' height='248.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #08519C;' />
-<rect x='276.97' y='268.72' width='176.28' height='247.39' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3182BD;' />
-<rect x='472.84' y='77.37' width='176.28' height='438.74' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6BAED6;' />
-<rect x='668.71' y='411.55' width='176.28' height='104.56' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #9ECAE1;' />
-<rect x='864.57' y='378.75' width='176.28' height='137.36' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C6DBEF;' />
-<text x='169.24' y='262.95' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>36.3%</text>
-<text x='365.11' y='263.63' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>36.2%</text>
-<text x='560.98' y='72.28' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>64.2%</text>
-<text x='756.85' y='406.46' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>15.3%</text>
-<text x='952.72' y='373.66' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>20.1%</text>
-<polyline points='952.72,472.44 756.85,414.78 560.98,346.43 365.11,310.08 169.24,77.37 ' style='stroke-width: 2.13; stroke: #FF0000; stroke-linecap: butt;' />
-<circle cx='169.24' cy='77.37' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
-<circle cx='365.11' cy='310.08' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
-<circle cx='560.98' cy='346.43' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
-<circle cx='756.85' cy='414.78' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
-<circle cx='952.72' cy='472.44' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
+<g clip-path='url(#cpNTEuNzF8NzI0LjY0fDQ0LjMyfDUzOC4wNQ==)'>
+<rect x='51.71' y='44.32' width='672.92' height='493.73' style='stroke-width: 1.07; stroke: none;' />
+<polyline points='51.71,445.69 724.64,445.69 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.71,305.87 724.64,305.87 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.71,166.04 724.64,166.04 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.71,515.61 724.64,515.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.71,375.78 724.64,375.78 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.71,235.95 724.64,235.95 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.71,96.12 724.64,96.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='129.36,538.05 129.36,44.32 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='258.77,538.05 258.77,44.32 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='388.18,538.05 388.18,44.32 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='517.58,538.05 517.58,44.32 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='646.99,538.05 646.99,44.32 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='71.13' y='261.82' width='116.47' height='253.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #08519C;' />
+<rect x='200.53' y='262.52' width='116.47' height='253.09' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #3182BD;' />
+<rect x='329.94' y='66.76' width='116.47' height='448.85' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6BAED6;' />
+<rect x='459.35' y='408.64' width='116.47' height='106.97' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #9ECAE1;' />
+<rect x='588.76' y='375.08' width='116.47' height='140.53' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C6DBEF;' />
+<text x='129.36' y='256.73' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>36.3%</text>
+<text x='258.77' y='257.43' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>36.2%</text>
+<text x='388.18' y='61.67' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>64.2%</text>
+<text x='517.58' y='403.55' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>15.3%</text>
+<text x='646.99' y='369.99' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>20.1%</text>
+<polyline points='646.99,470.93 517.58,411.94 388.18,342.01 258.77,304.83 129.36,66.76 ' style='stroke-width: 2.13; stroke: #FF0000; stroke-linecap: butt;' />
+<circle cx='129.36' cy='66.76' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
+<circle cx='258.77' cy='304.83' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
+<circle cx='388.18' cy='342.01' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
+<circle cx='517.58' cy='411.94' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
+<circle cx='646.99' cy='470.93' r='3.56' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' />
 </g>
-<g clip-path='url(#cpMC4wMHwxMTUyLjAwfDAuMDB8NjQ4LjAw)'>
-<text x='46.78' y='522.56' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='10.02px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='46.78' y='385.88' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>20</text>
-<text x='46.78' y='249.20' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>40</text>
-<text x='46.78' y='112.52' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>60</text>
-<text x='1125.25' y='522.56' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='10.02px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='1125.25' y='432.05' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>10000</text>
-<text x='1125.25' y='341.55' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>20000</text>
-<text x='1125.25' y='251.05' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>30000</text>
-<text x='1125.25' y='160.54' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>40000</text>
-<text x='1125.25' y='70.04' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>50000</text>
-<text transform='translate(177.34,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='69.73px' lengthAdjust='spacingAndGlyphs'>Online TA</text>
-<text transform='translate(373.21,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='95.86px' lengthAdjust='spacingAndGlyphs'>Offline TA/TO</text>
-<text transform='translate(569.08,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='52.50px' lengthAdjust='spacingAndGlyphs'>Groups</text>
-<text transform='translate(764.95,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='41.81px' lengthAdjust='spacingAndGlyphs'>Direct</text>
-<text transform='translate(960.82,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='71.20px' lengthAdjust='spacingAndGlyphs'>Corporate</text>
-<text x='560.98' y='638.31' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='174.56px' lengthAdjust='spacingAndGlyphs'>Segment de mercat</text>
-<text transform='translate(19.80,296.74) rotate(-90)' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='217.88px' lengthAdjust='spacingAndGlyphs'>Taxa de cancel·lació (%)</text>
-<text transform='translate(1132.20,296.74) rotate(90)' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='152.31px' lengthAdjust='spacingAndGlyphs'>Total de reserves</text>
-<text x='51.71' y='39.85' style='font-size: 48.00px; font-family: "Arial";' textLength='942.06px' lengthAdjust='spacingAndGlyphs'>Taxa de cancel·lació per segment de mercat</text>
+<g clip-path='url(#cpMC4wMHw4MDYuNDB8MC4wMHw2NDguMDA=)'>
+<text x='46.78' y='522.05' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='10.02px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='46.78' y='382.22' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='46.78' y='242.40' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='46.78' y='102.57' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>60</text>
+<text x='779.65' y='522.05' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='10.02px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='779.65' y='429.46' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>10000</text>
+<text x='779.65' y='336.88' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>20000</text>
+<text x='779.65' y='244.29' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>30000</text>
+<text x='779.65' y='151.70' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>40000</text>
+<text x='779.65' y='59.11' text-anchor='end' style='font-size: 18.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.08px' lengthAdjust='spacingAndGlyphs'>50000</text>
+<text transform='translate(137.46,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='69.73px' lengthAdjust='spacingAndGlyphs'>Online TA</text>
+<text transform='translate(266.87,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='95.86px' lengthAdjust='spacingAndGlyphs'>Offline TA/TO</text>
+<text transform='translate(396.28,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='52.50px' lengthAdjust='spacingAndGlyphs'>Groups</text>
+<text transform='translate(525.69,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='41.81px' lengthAdjust='spacingAndGlyphs'>Direct</text>
+<text transform='translate(655.09,551.08) rotate(-45)' text-anchor='end' style='font-size: 16.00px;fill: #4D4D4D; font-family: "Arial";' textLength='71.20px' lengthAdjust='spacingAndGlyphs'>Corporate</text>
+<text x='388.18' y='638.31' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='174.56px' lengthAdjust='spacingAndGlyphs'>Segment de mercat</text>
+<text transform='translate(19.80,291.18) rotate(-90)' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='217.88px' lengthAdjust='spacingAndGlyphs'>Taxa de cancel·lació (%)</text>
+<text transform='translate(786.60,291.18) rotate(90)' text-anchor='middle' style='font-size: 20.00px; font-family: "Arial";' textLength='152.31px' lengthAdjust='spacingAndGlyphs'>Total de reserves</text>
+<text x='51.71' y='31.26' style='font-size: 36.00px; font-family: "Arial";' textLength='706.22px' lengthAdjust='spacingAndGlyphs'>Taxa de cancel·lació per segment de mercat</text>
 </g>
 </g>
 </svg>

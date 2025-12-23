@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1152.00pt' height='648.00pt' viewBox='0 0 1152.00 648.00'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='806.40pt' height='648.00pt' viewBox='0 0 806.40 648.00'>
 <g class='svglite'>
 <defs>
   <style type='text/css'><![CDATA[
@@ -21,37 +21,37 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: none;'/>
 <defs>
-  <clipPath id='cpMC4wMHwxMTUyLjAwfDAuMDB8NjQ4LjAw'>
-    <rect x='0.00' y='0.00' width='1152.00' height='648.00' />
+  <clipPath id='cpMC4wMHw4MDYuNDB8MC4wMHw2NDguMDA='>
+    <rect x='0.00' y='0.00' width='806.40' height='648.00' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHwxMTUyLjAwfDAuMDB8NjQ4LjAw)'>
-<rect x='0.00' y='0.00' width='1152.00' height='648.00' style='stroke-width: 0.00; stroke: none;' />
+<g clip-path='url(#cpMC4wMHw4MDYuNDB8MC4wMHw2NDguMDA=)'>
+<rect x='0.00' y='0.00' width='806.40' height='648.00' style='stroke-width: 0.00; stroke: none;' />
 </g>
 <defs>
-  <clipPath id='cpMjAuMDN8MTE1Mi4wMHw0OS45NXw2MzEuMzI='>
-    <rect x='20.03' y='49.95' width='1131.97' height='581.36' />
+  <clipPath id='cpMjAuMDN8ODA2LjQwfDM4Ljg0fDYzMS4zMg=='>
+    <rect x='20.03' y='38.84' width='786.37' height='592.48' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMjAuMDN8MTE1Mi4wMHw0OS45NXw2MzEuMzI=)'>
-<rect x='20.03' y='49.95' width='1131.97' height='581.36' style='stroke-width: 0.00; stroke: none;' />
-<rect x='426.83' y='521.25' width='318.37' height='83.65' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #F8766D;' />
-<rect x='780.57' y='597.46' width='318.37' height='7.44' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #00BA38;' />
-<rect x='73.09' y='76.38' width='318.37' height='528.51' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #619CFF;' />
-<text x='586.02' y='516.16' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>13.5%</text>
-<text x='939.76' y='592.37' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='32.41px' lengthAdjust='spacingAndGlyphs'>1.2%</text>
-<text x='232.28' y='71.29' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>85.3%</text>
+<g clip-path='url(#cpMjAuMDN8ODA2LjQwfDM4Ljg0fDYzMS4zMg==)'>
+<rect x='20.03' y='38.84' width='786.37' height='592.48' style='stroke-width: 0.00; stroke: none;' />
+<rect x='302.63' y='519.14' width='221.17' height='85.24' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #F8766D;' />
+<rect x='548.37' y='596.81' width='221.17' height='7.58' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #00BA38;' />
+<rect x='56.89' y='65.77' width='221.17' height='538.62' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #619CFF;' />
+<text x='413.22' y='514.05' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>13.5%</text>
+<text x='658.96' y='591.72' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='32.41px' lengthAdjust='spacingAndGlyphs'>1.2%</text>
+<text x='167.48' y='60.68' text-anchor='middle' style='font-size: 14.23px; font-family: "Arial";' textLength='40.31px' lengthAdjust='spacingAndGlyphs'>85.3%</text>
 </g>
-<g clip-path='url(#cpMC4wMHwxMTUyLjAwfDAuMDB8NjQ4LjAw)'>
-<text x='10.02' y='611.34' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='10.02px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='10.02' y='487.42' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>20</text>
-<text x='10.02' y='363.50' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>40</text>
-<text x='10.02' y='239.58' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>60</text>
-<text x='10.02' y='115.66' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>80</text>
-<text x='232.28' y='646.10' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='107.08px' lengthAdjust='spacingAndGlyphs'>Sense canvis</text>
-<text x='586.02' y='646.10' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='82.06px' lengthAdjust='spacingAndGlyphs'>1-2 canvis</text>
-<text x='939.76' y='646.10' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='76.56px' lengthAdjust='spacingAndGlyphs'>3+ canvis</text>
-<text x='20.03' y='39.85' style='font-size: 48.00px; font-family: "Arial";' textLength='944.66px' lengthAdjust='spacingAndGlyphs'>Distribució de reserves: Flexibilitat de clients</text>
+<g clip-path='url(#cpMC4wMHw4MDYuNDB8MC4wMHw2NDguMDA=)'>
+<text x='10.02' y='610.83' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='10.02px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='10.02' y='484.54' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='10.02' y='358.25' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='10.02' y='231.97' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>60</text>
+<text x='10.02' y='105.68' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='20.03px' lengthAdjust='spacingAndGlyphs'>80</text>
+<text x='167.48' y='646.10' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='107.08px' lengthAdjust='spacingAndGlyphs'>Sense canvis</text>
+<text x='413.22' y='646.10' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='82.06px' lengthAdjust='spacingAndGlyphs'>1-2 canvis</text>
+<text x='658.96' y='646.10' text-anchor='middle' style='font-size: 18.00px; font-family: "Arial";' textLength='76.56px' lengthAdjust='spacingAndGlyphs'>3+ canvis</text>
+<text x='20.03' y='31.26' style='font-size: 36.00px; font-family: "Arial";' textLength='708.17px' lengthAdjust='spacingAndGlyphs'>Distribució de reserves: Flexibilitat de clients</text>
 </g>
 </g>
 </svg>
