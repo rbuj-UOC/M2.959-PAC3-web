@@ -229,6 +229,9 @@ body {
     height: auto;
     scroll-snap-align: none;
   }
+}
+
+@media (max-width: 1400px) {
 
   .conclusions-grid {
     grid-template-columns: 1fr;
