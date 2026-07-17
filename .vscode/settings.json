@@ -1,4 +1,11 @@
 {
     "cSpell.language": "ca,en",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "editor.rulers": [
+        80,
+        100
+    ]
 }
